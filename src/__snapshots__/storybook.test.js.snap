@@ -120,3 +120,43 @@ exports[`Storyshots Task Pinned 1`] = `
   </div>
 </div>
 `;
+
+exports[`Storyshots TaskList Default 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+/>
+`;
+
+exports[`Storyshots TaskList Empty 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+/>
+`;
+
+exports[`Storyshots TaskList Loading 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+/>
+`;
+
+exports[`Storyshots TaskList With Pinned Tasks 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+/>
+`;
