@@ -21,7 +21,7 @@ export default function Task({
         <input
           type="text"
           value={title}
-          readOnly="true"
+          readOnly={true}
           placeholder="Input title"
         />
       </div>
