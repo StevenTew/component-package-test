@@ -1,5 +1,5 @@
 {
-  "name": "component-package-test",
+  "name": "@steventew/component-package-test",
   "version": "0.1.0",
   "description": "A simple test trialing npm for a component library",
   "author": "Steven Tew",
