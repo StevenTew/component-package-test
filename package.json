@@ -58,7 +58,7 @@
     "@storybook/testing-react": "^0.0.10"
   },
   "homepage": "https://github.com/steventew/component-package-demo#readme",
-  "main": "dist/index.js",
+  "main": "src/components/index.js",
   "keywords": [
     "css",
     "sass",
@@ -68,5 +68,8 @@
     "web",
     "magpie",
     "storybook"
+  ],
+  "files": [
+    "src/components/**/*.*"
   ]
 }
