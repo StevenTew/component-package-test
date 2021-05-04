@@ -5,10 +5,10 @@
   "author": "Steven Tew",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/steventew/component-package-demo.git"
+    "url": "git+https://github.com/steventew/component-package-test.git"
   },
   "bugs": {
-    "url": "https://github.com/steventew/component-package-demo/issues"
+    "url": "https://github.com/steventew/component-package-test/issues"
   },
   "license": "MIT",
   "dependencies": {
