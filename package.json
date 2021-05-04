@@ -29,9 +29,9 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
-    "clean-dist": "rimraf ./dist && mkdirp dist/css",
+    "clean-dist": "rimraf ./dist && mkdirp dist/css dist/assets",
     "predist": "npm-run-all clean-dist",
-    "dist": "babel src/components --out-dir dist && cp src/index.css dist/css"
+    "dist": "babel src/components --out-dir dist && cp src/index.css dist/css && cp -r src/assets dist/assets"
   },
   "eslintConfig": {
     "extends": [
