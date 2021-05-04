@@ -1,0 +1,23 @@
+{
+  "presets": [
+    "@babel/preset-env",
+    [
+      "@babel/preset-react",
+      {
+        "runtime": "automatic" //auto imports the functions that JSX compiles to
+      }
+    ]
+  ],
+  "env": {
+    "production": {
+      "presets": [
+        [
+          "@babel/preset-env",
+          {
+            "targets": "> 0.25%, not dead"
+          }
+        ]
+      ]
+    }
+  }
+}
