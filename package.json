@@ -68,7 +68,7 @@
     "rimraf": "^3.0.2"
   },
   "homepage": "https://github.com/steventew/component-package-demo#readme",
-  "main": "dist/index.js",
+  "main": "dist/components/index.js",
   "keywords": [
     "css",
     "sass",
